@@ -1,0 +1,4 @@
+--paste line 4 into your sprite sheet starting at position 1.
+--1 is up, 2 down, 3 left, 4 is right.
+--udlr for 5-8, but make the background green (or whatever color you like).
+00000000000c000000ccc0000c0c0c00000c0000000c0000000c00000000000000
